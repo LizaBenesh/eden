@@ -1,5 +1,0 @@
-mkdir docs
-echo "# Documentation" > docs/README.md
-git add docs/
-git commit -m "Add documentation"
-git push
